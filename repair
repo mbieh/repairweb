@@ -1,8 +1,8 @@
-! 12.3.2019 https://www.immobilienscout24.de
+! https://www.immobilienscout24.de
 www.immobilienscout24.de##.result-list__listing:has(div.result-list-entry__brand-banner)
 www.immobilienscout24.de##.result-list__listing:has-text(/AZ Agentur/)
 
-! 12.3.2019 http://www.spiegel.de
+! http://www.spiegel.de
 www.spiegel.de##.teaser:has(a.spplus)
 www.spiegel.de##.teaser:has(a.bento)
 www.spiegel.de##.spplusbox18hp
@@ -12,7 +12,7 @@ www.spiegel.de##.asset-box.podcast
 www.spiegel.de##.column-small
 www.spiegel.de##.column-wide:style(width:inherit)
 
-! 13.3.2019 https://www.saechsische.de
+! https://www.saechsische.de
 www.saechsische.de##article.nad
 www.saechsische.de##.article-nad
 www.saechsische.de##.article-box-new:style(width:inherit;grid-template-columns: 180px 1fr)
@@ -20,3 +20,10 @@ www.saechsische.de##.article-box-new:nth-of-type(odd):style(margin-left:0)
 www.saechsische.de##.article-box-new:nth-of-type(even):style(margin-right:0)
 www.saechsische.de##.article-box-new .content:style(align-self:inherit)
 www.saechsische.de###footer-list
+
+! https://www.golem.de
+www.golem.de##body:style(background:#f2f2f2)
+www.golem.de##.g2
+www.golem.de##.g4:style(width:inherit)
+www.golem.de##.specialletters
+www.golem.de##.topics

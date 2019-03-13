@@ -1,6 +1,10 @@
 ! https://www.immobilienscout24.de
+www.immobilienscout24.de###sidebar
 www.immobilienscout24.de##.result-list__listing:has(div.result-list-entry__brand-banner)
 www.immobilienscout24.de##.result-list__listing:has-text(/AZ Agentur/)
+www.immobilienscout24.de###listContainer:style(flex:inherit;width:100% !important)
+www.immobilienscout24.de##.result-list-entry .result-list-entry__gallery-container:style(width:33%)
+www.immobilienscout24.de##.result-list-entry .result-list-entry__data-container:style(width:65%)
 
 ! http://www.spiegel.de
 www.spiegel.de###spOasTop

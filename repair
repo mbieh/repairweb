@@ -12,6 +12,7 @@ www.spiegel.de##.module-box.plus
 www.spiegel.de##.asset-box.podcast
 www.spiegel.de##.column-small
 www.spiegel.de##.column-wide:style(width:inherit)
+www.spiegel.de###wrapper:style(margin:inherit;min-width:inherit)
 www.spiegel.de###wrapper-shadow:style(margin:auto;box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
 
 ! https://www.saechsische.de

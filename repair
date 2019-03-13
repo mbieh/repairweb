@@ -20,6 +20,13 @@ www.saechsische.de##.article-box-new:nth-of-type(odd):style(margin-left:0)
 www.saechsische.de##.article-box-new:nth-of-type(even):style(margin-right:0)
 www.saechsische.de##.article-box-new .content:style(align-self:inherit)
 www.saechsische.de###footer-list
+www.saechsische.de##body:style(background:#f2f2f2)
+www.saechsische.de##header:style(background:inherit)
+www.saechsische.de##header nav:style(background:#fff)
+www.saechsische.de###container:style(background:#fff)
+www.saechsische.de##.article-box-new:style(padding:0 20px 20px 20px)
+www.saechsische.de##.article-box-new .meta:style(right:20px)
+www.saechsische.de###footer-bg:style(background-color:inherit;border-top:0px;border-bottom:0px;opacity:0.25)
 
 ! https://www.golem.de
 www.golem.de##body:style(background:#f2f2f2)

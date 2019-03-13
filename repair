@@ -32,6 +32,9 @@ www.saechsische.de##nav:style(background:#fff;box-shadow: 0px -2px 5px 0px rgba(
 www.saechsische.de##.article-box-new:style(padding:0 20px 20px 20px)
 www.saechsische.de##.article-box-new .meta:style(right:20px)
 www.saechsische.de###footer-bg:style(background-color:inherit;border-top:0px;border-bottom:0px;opacity:0.25)
+www.saechsische.de##.article-list-container h2.title.big:style(display: none)
+www.saechsische.de##.bundle-new:style(background:#fcfcfc)
+www.saechsische.de##.bundle-slider-container-new:style(background:#fcfcfc)
 
 ! https://www.golem.de
 www.golem.de##body:style(background:#f2f2f2)

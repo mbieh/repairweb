@@ -40,6 +40,8 @@ www.saechsische.de##.bundle-slider-container-new:style(background:#fcfcfc)
 www.golem.de##body:style(background:#f2f2f2)
 www.golem.de##.g2
 www.golem.de##.g4:style(width:inherit)
+www.golem.de##.longvideo-teaser
+www.golem.de##.longread-teaser
 www.golem.de##.specialletters
 www.golem.de##.topics
 www.golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))

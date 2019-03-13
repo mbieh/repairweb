@@ -3,6 +3,7 @@ www.immobilienscout24.de##.result-list__listing:has(div.result-list-entry__brand
 www.immobilienscout24.de##.result-list__listing:has-text(/AZ Agentur/)
 
 ! http://www.spiegel.de
+www.spiegel.de###spOasTop
 www.spiegel.de##.teaser:has(a.spplus)
 www.spiegel.de##.teaser:has(a.bento)
 www.spiegel.de##.spplusbox18hp
@@ -11,6 +12,7 @@ www.spiegel.de##.module-box.plus
 www.spiegel.de##.asset-box.podcast
 www.spiegel.de##.column-small
 www.spiegel.de##.column-wide:style(width:inherit)
+www.spiegel.de###wrapper-shadow:style(margin:auto;box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
 
 ! https://www.saechsische.de
 www.saechsische.de##article.nad
@@ -23,7 +25,8 @@ www.saechsische.de###footer-list
 www.saechsische.de##body:style(background:#f2f2f2)
 www.saechsische.de##header:style(background:inherit)
 www.saechsische.de##header nav:style(background:#fff)
-www.saechsische.de###container:style(background:#fff)
+www.saechsische.de###container:style(background:#fff;box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
+www.saechsische.de##nav:style(background:#fff;box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, 0.10))
 www.saechsische.de##.article-box-new:style(padding:0 20px 20px 20px)
 www.saechsische.de##.article-box-new .meta:style(right:20px)
 www.saechsische.de###footer-bg:style(background-color:inherit;border-top:0px;border-bottom:0px;opacity:0.25)
@@ -34,3 +37,4 @@ www.golem.de##.g2
 www.golem.de##.g4:style(width:inherit)
 www.golem.de##.specialletters
 www.golem.de##.topics
+www.golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))

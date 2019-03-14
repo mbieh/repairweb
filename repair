@@ -20,7 +20,6 @@ www.spiegel.de##.module-box.gutscheine-widget
 www.spiegel.de##.module-box:has(p.anz)
 www.spiegel.de##.asset-box.podcast
 www.spiegel.de##.asset-list-box-hp-special
-www.spiegel.de##.asset-maxi
 www.spiegel.de##.column-small
 www.spiegel.de##.column-wide:style(width:inherit)
 www.spiegel.de###wrapper:style(margin:inherit;min-width:inherit)

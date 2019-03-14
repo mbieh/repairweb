@@ -16,7 +16,11 @@ www.spiegel.de##.teaser:has(h2 a.bento)
 www.spiegel.de##.spplusbox18hp
 www.spiegel.de##.module-box.bento
 www.spiegel.de##.module-box.plus
+www.spiegel.de##.module-box.gutscheine-widget
+www.spiegel.de##.module-box:has(p.anz)
 www.spiegel.de##.asset-box.podcast
+www.spiegel.de##.asset-list-box-hp-special
+www.spiegel.de##.asset-maxi
 www.spiegel.de##.column-small
 www.spiegel.de##.column-wide:style(width:inherit)
 www.spiegel.de###wrapper:style(margin:inherit;min-width:inherit)
@@ -24,6 +28,15 @@ www.spiegel.de###wrapper-shadow:style(margin:auto;box-shadow: 0px 2px 5px 0px rg
 www.spiegel.de###js-sticky-header.is-sticky:style(box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1))
 www.spiegel.de##.teaser:not(.pano_xxl) .article-image-box img:style(max-width:230px;height:auto)
 www.spiegel.de##.teaser:not(.pano_xxl) .article-image-box:style(float:left;margin-right:20px)
+www.spiegel.de##.sp-bestseller-teaser
+www.spiegel.de##.hp-teasers-box:style(border-bottom: 0px !important)
+www.spiegel.de##.function-box
+www.spiegel.de##.asset-link-box
+www.spiegel.de##.article-topic-box
+www.spiegel.de###spRecommendations
+www.spiegel.de###footer .footer-partner
+www.spiegel.de###footer .slider
+www.spiegel.de###page-overscroll-area:style(position:fixed;opacity:0)
 
 ! https://www.saechsische.de
 www.saechsische.de##.nad

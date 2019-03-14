@@ -58,17 +58,17 @@ www.saechsische.de##.bundle-new:style(background:#fcfcfc)
 www.saechsische.de##.bundle-slider-container-new:style(background:#fcfcfc)
 
 ! https://www.golem.de
-www.golem.de##body:style(background:#f2f2f2)
-www.golem.de##.g2
-www.golem.de##.g4:style(width:inherit)
-www.golem.de##.longvideo-teaser
-www.golem.de##.longread-teaser
-www.golem.de##.media-slider__teaser.hero
-www.golem.de##.specialletters
-www.golem.de##.topics
-www.golem.de##.promos:style(border-top:0px)
-www.golem.de##.activity:style(border-top:0px)
-www.golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
+*.golem.de##body:style(background:#f2f2f2)
+*.golem.de##.g2
+*.golem.de##.g4:style(width:inherit)
+*.golem.de##.longvideo-teaser
+*.golem.de##.longread-teaser
+*.golem.de##.media-slider__teaser.hero
+*.golem.de##.specialletters
+*.golem.de##.topics
+*.golem.de##.promos:style(border-top:0px)
+*.golem.de##.activity:style(border-top:0px)
+*.golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
 
 ! https://www.zeit.de
 zeit.de##.cp-area.cp-area--minor

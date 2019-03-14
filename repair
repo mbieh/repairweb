@@ -58,17 +58,18 @@ saechsische.de##.bundle-new:style(background:#fcfcfc)
 saechsische.de##.bundle-slider-container-new:style(background:#fcfcfc)
 
 ! https://www.golem.de
-golem.de##body:style(background:#f2f2f2)
+golem.de##body:style(background:#f2f2f2 !important)
 golem.de##.g2
-golem.de##.g4:style(width:inherit)
+golem.de##.g4:style(width:inherit !important)
 golem.de##.longvideo-teaser
 golem.de##.longread-teaser
 golem.de##.media-slider__teaser.hero
 golem.de##.specialletters
 golem.de##.topics
-golem.de##.promos:style(border-top:0px)
-golem.de##.activity:style(border-top:0px)
-golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
+golem.de##.promos
+golem.de##.activity
+golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10) !important)
+golem.de##.threads ol li:has(script)
 
 ! https://www.zeit.de
 zeit.de##.cp-area.cp-area--minor

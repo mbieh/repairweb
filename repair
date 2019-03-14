@@ -66,3 +66,23 @@ www.golem.de##.longread-teaser
 www.golem.de##.specialletters
 www.golem.de##.topics
 www.golem.de###grandwrapper:style(box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
+
+! https://www.zeit.de
+zeit.de##.cp-area.cp-area--minor
+zeit.de##.cp-area.cp-area--major:style(width:100%)
+zeit.de##.teaser-large:has(.teaser-large__kicker-logo--zett)
+zeit.de##.teaser-large:has(.teaser-large__kicker-logo--zplus)
+zeit.de##.teaser-large:has(.teaser-large__kicker-logo--zplus-register)
+zeit.de##.teaser-small:has(.teaser-small__kicker-logo--zett)
+zeit.de##.teaser-small:has(.teaser-small__kicker-logo--zplus)
+zeit.de##.teaser-small:has(.teaser-small__kicker-logo--zplus-register)
+zeit.de##.cp-region--parquet:has(.parquet-meta__logo--zett)
+zeit.de##.cp-region--parquet:has(.parquet-meta__logo--zplus)
+zeit.de##.cp-region--parquet:has(.parquet-meta__logo--zplus-register)
+zeit.de##.zg-wiegehtesihnen
+zeit.de##.podcast-bar
+zeit.de##.partnerbox
+zeit.de##.cp-region:has(.cp-area--shop)
+zeit.de##.cp-region:has(.cp-area--printkiosk)
+zeit.de##.cp-region:has(.servicebox)
+zeit.de###overscrolling:style(position:fixed;opacity:0)

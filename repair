@@ -10,8 +10,8 @@ www.immobilienscout24.de##.result-list-entry--m .gallery__image:style(padding:1p
 
 ! http://www.spiegel.de
 www.spiegel.de###spOasTop
-www.spiegel.de##.teaser:has(a.spplus)
-www.spiegel.de##.teaser:has(a.bento)
+www.spiegel.de##.teaser:has(h2 a.spplus)
+www.spiegel.de##.teaser:has(h2 a.bento)
 www.spiegel.de##.spplusbox18hp
 www.spiegel.de##.module-box.bento
 www.spiegel.de##.module-box.plus

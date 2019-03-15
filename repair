@@ -39,7 +39,7 @@ spiegel.de###page-overscroll-area:style(position:fixed;opacity:0)
 
 ! https://www.saechsische.de
 saechsische.de##.nad
-saechsische.de##.article-content .article-nad
+saechsische.de##.article-nad.article-line-section
 saechsische.de##.article-box-new:style(width:inherit;grid-template-columns: 180px 1fr)
 saechsische.de##.article-box-new:nth-of-type(odd):style(margin-left:0)
 saechsische.de##.article-box-new:nth-of-type(even):style(margin-right:0)

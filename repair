@@ -8,6 +8,25 @@ immobilienscout24.de##.result-list-entry .result-list-entry__data-container:styl
 immobilienscout24.de##.result-list-entry--s .gallery__image:style(padding:1px)
 immobilienscout24.de##.result-list-entry--m .gallery__image:style(padding:1px)
 
+! https://www.immonet.de
+immonet.de###dyn-sel-colright
+immonet.de###selSagent_sel_bottom
+immonet.de##.col-md-9:style(width:100%!important)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/Zwangsversteigerung/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/KHC Bauträger GmbH/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/VIVA-Massivhaus GmbH/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/Werner Wohnbau GmbH &Co.KG/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/Massa Haus/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/massa haus/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/Radebeuler Wohnbau GmbH/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/Kerstin Much/)
+immonet.de##.col-xs-12.place-over-understitial.sel-bg-gray-lighter:has-text(/Kampa GmbH/)
+
+! https://www.immowelt.de
+immowelt.de##.js-object.listitem_wrap:has-text(/Zwangsversteigerung/)
+immowelt.de##.js-object.listitem_wrap:has-text(/Die Eigenheim.Fabrik GmbH/)
+immowelt.de##.js-object.listitem_wrap:has-text(/Hanse Haus GmbH & Co. KG/)
+
 ! http://www.spiegel.de
 spiegel.de###spOasTop
 spiegel.de##li:has(a.spplus)

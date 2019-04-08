@@ -54,6 +54,9 @@ spiegel.de###wrapper-shadow:style(margin:auto;box-shadow: 0px 2px 5px 0px rgba(0
 spiegel.de###js-sticky-header.is-sticky:style(box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1))
 spiegel.de##.teaser:not(.pano_xxl) .article-image-box img:style(max-width:230px;height:auto)
 spiegel.de##.teaser:not(.pano_xxl) .article-image-box:style(float:left;margin-right:20px)
+spiegel.de##.teaser:not(.pano_xxl) .video-asset-tophp:style(float:left;margin-right:20px)
+spiegel.de##.teaser:not(.pano_xxl) .video-asset-tophp img:style(max-width:230px;height:auto)
+spiegel.de##.teaser:not(.pano_xxl) .video-asset-tophp a:style(height:auto !important)
 spiegel.de##.sp-bestseller-teaser
 spiegel.de##.hp-teasers-box:style(border-bottom: 0px !important)
 spiegel.de##.function-box

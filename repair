@@ -29,6 +29,7 @@ immowelt.de##.js-object.listitem_wrap:has-text(/Hanse Haus GmbH & Co. KG/)
 
 ! https://www.hausbau-forum.de
 hausbau-forum.de##.samTextUnit
+hausbau-forum.de##.similarThreadsThreadView 
 hausbau-forum.de##.hiddenResponsiveLarge
 hausbau-forum.de##.gbeitrag
 hausbau-forum.de##.sidebar

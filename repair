@@ -88,6 +88,15 @@ saechsische.de###footer-bg:style(background-color:inherit;border-top:0px;border-
 saechsische.de##.article-list-container h2.title.big:style(display: none)
 saechsische.de##.bundle-new:style(background:#fff;border-bottom: 1px solid #e2e2e2;)
 saechsische.de##.bundle-slider-container-new:style(background:#fff;border-bottom: 1px solid #e2e2e2;)
+saechsische.de##.article-fill
+saechsische.de###article-header-container
+saechsische.de##body.viewmode-article-detail:style(margin-top: 60px)
+saechsische.de##body.viewmode-region:style(margin-top: 96px)
+saechsische.de##.article-box:style(width:inherit;grid-template-columns: 180px 1fr)
+saechsische.de##.article-box:nth-of-type(odd):style(margin-left:20px;margin-right:20px)
+saechsische.de##.article-box:nth-of-type(even):style(margin-left:20px;margin-right:20px)
+saechsische.de##.article-box .content:style(align-self:inherit)
+saechsische.de###sntch_button
 
 ! https://www.golem.de
 golem.de##body:style(background:#f2f2f2 !important)

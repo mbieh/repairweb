@@ -37,35 +37,6 @@ hausbau-forum.de##.p-body-sidebar
 hausbau-forum.de##.mainContainer:style(width:100% !important)
 
 ! http://www.spiegel.de
-spiegel.de###spOasTop
-spiegel.de##li:has(a.spplus)
-spiegel.de##.teaser:has(h2 a.spplus)
-spiegel.de##.teaser:has(h2 a.bento)
-spiegel.de##.spplusbox18hp
-spiegel.de##.module-box.bento
-spiegel.de##.module-box.plus
-spiegel.de##.module-box.gutscheine-widget
-spiegel.de##.module-box:has(p.anz)
-spiegel.de##.asset-box.podcast
-spiegel.de##.asset-list-box-hp-special
-spiegel.de##.column-small
-spiegel.de##.column-wide:style(width:inherit)
-spiegel.de###wrapper:style(margin:inherit;min-width:inherit)
-spiegel.de###wrapper-shadow:style(margin:auto;box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10))
-spiegel.de###js-sticky-header.is-sticky:style(box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1))
-spiegel.de##.teaser:not(.pano_xxl) .article-image-box img:style(max-width:230px;height:auto)
-spiegel.de##.teaser:not(.pano_xxl) .article-image-box:style(float:left;margin-right:20px)
-spiegel.de##.teaser:not(.pano_xxl) .video-asset-tophp:style(float:left;margin-right:20px)
-spiegel.de##.teaser:not(.pano_xxl) .video-asset-tophp img:style(max-width:230px;height:auto)
-spiegel.de##.teaser:not(.pano_xxl) .video-asset-tophp a:style(height:auto !important)
-spiegel.de##.sp-bestseller-teaser
-spiegel.de##.hp-teasers-box:style(border-bottom: 0px !important)
-spiegel.de##.function-box
-spiegel.de##.asset-link-box
-spiegel.de##.article-topic-box
-spiegel.de###spRecommendations
-spiegel.de###footer .footer-partner
-spiegel.de###footer .slider
 spiegel.de###page-overscroll-area:style(position:fixed;opacity:0)
 
 ! https://www.saechsische.de

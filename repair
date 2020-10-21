@@ -68,12 +68,6 @@ saechsische.de##.article-box:nth-of-type(odd):style(margin-left:20px;margin-righ
 saechsische.de##.article-box:nth-of-type(even):style(margin-left:20px;margin-right:20px)
 saechsische.de##.article-box .content:style(align-self:inherit)
 saechsische.de###sntch_button
-saechsische.de##header:style(background: none;)
-saechsische.de##.article-list-container .article-box:style(width: 100%;grid-template-columns: 150px 1fr;)
-saechsische.de##.article-list-container .article-box:nth-of-type(1n):style(margin-right: 1.8rem;)
-saechsische.de##.article-list-container .article-box:nth-of-type(2n):style(margin-left: 1.8rem;)
-saechsische.de##.article-list-container .article-box__section:style(align-self: inherit;min-height: 0px;display: none;)
-saechsische.de##.article-list-container .article-box__content:style(grid-area: inherit;)
 
 ! https://www.golem.de
 golem.de##body:style(background:#f2f2f2 !important)
